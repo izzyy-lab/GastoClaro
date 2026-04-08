@@ -35,7 +35,7 @@ const C = {
 // ─── Tipografías ─────────────────────────────────────────────────────────────
 const FONT_DISPLAY = "'Playfair Display', serif";
 const FONT_BODY    = "'DM Sans', sans-serif";
-const GITHUB_REPO_URL = "https://github.com/tu-usuario/tu-repo";
+const GITHUB_REPO_URL = "https://github.com/izzyy-lab/GastoClaro";
 
 // ─── Datos de la página ──────────────────────────────────────────────────────
 const FEATURES = [
@@ -255,7 +255,7 @@ export default function Content() {
                   },
                 }}
               >
-                Repositorio GitHub (reemplaza este enlace por el tuyo)
+                Repositorio GitHub
               </Typography>
 
               {/* Trust badges */}
