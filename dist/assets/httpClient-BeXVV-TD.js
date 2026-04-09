@@ -1,0 +1,1 @@
+import{t as e}from"./axios-D1UuxalV.js";var t=e.create({baseURL:`/api`,timeout:12e3,headers:{"Content-Type":`application/json`}});function n(e){return e?{Authorization:`Bearer ${e}`}:{}}function r(e,t){return e?.response?.data?.message||t}export{r as n,t as r,n as t};
