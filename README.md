@@ -90,17 +90,19 @@ npm run dev
 ```
 
 ## Screenshot de la Interfaz
-![Dashboard de GastoClaro](./docs/gastoclaro-ui.png)
+![Dashboard de GastoClaro]
+<img width="1908" height="872" alt="image" src="https://github.com/user-attachments/assets/421ba12c-a86f-4120-83be-377e78a9eaaa" />
+
 
 ## Enlace al Repositorio GitHub
-El landing ya incluye un enlace visible con placeholder para reemplazar:
-- `https://github.com/tu-usuario/tu-repo`
+El landing ya incluye un enlace visible:
+- `https://github.com/izzyy-lab/GastoClaro`
 
 ## Datos Importantes del Autor
-- Nombre: **[Tu nombre aqui]**
-- Programa/Ficha: **[Completar]**
-- Correo: **[Completar]**
-- GitHub: **[Completar]**
+- Nombre: **FELIPE ECHEVERRI DAVID**
+- Programa/Ficha: **ADSO/3256538**
+- Correo: **felipe.echeverri06@gmail.com**
+- GitHub: **github.com/izzyy-lab**
 
 ## Notas
 - Este proyecto necesita backend y frontend corriendo en paralelo.
